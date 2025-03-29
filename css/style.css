@@ -1,0 +1,32 @@
+body {
+    background-color: darkgoldenrod;
+    text-align: center;
+    
+    }
+
+h1 {
+    background-color: black;
+    text-align: left;
+}
+#heading {
+    text-align: center;
+    text-decoration: double;
+}
+
+input, textarea {
+    width: 100%;
+    border: 1px;
+    border-radius: 5px;
+    font-size: 25;
+}
+
+
+label {
+    display: block;
+    font-weight: bold;
+}
+button {
+    background-color: aquamarine;
+    color: blue;
+
+}
